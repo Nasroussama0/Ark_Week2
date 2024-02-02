@@ -29,4 +29,4 @@ async function processFiles(filePaths) {
 }
 
 
-module.exports = processFiles;
+module.exports = processFiles;
